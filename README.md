@@ -1,0 +1,2 @@
+# Optimizing-Job-Shop-Scheduling-using-Genetic-Algorithm
+ Consider a manufacturing plant with several machines such as cutting machines, drilling machines, and assembly stations. Each product requires a sequence of operations on these machines. The scheduling problem here is to determine the optimal sequence and timing for each product to minimize the overall production time or maximize throughput while considering machine capacities and job dependencies. This project aims to develop a genetic algorithm to optimize job shop scheduling in a manufacturing plant setting.
